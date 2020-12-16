@@ -1,0 +1,17 @@
+img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
+
+footer {
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 2px;
+  text-decoration: none;
+  background-color: rgb(22, 116, 22);
+  color: black;
+  margin-right: 5px;
+}
